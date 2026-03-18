@@ -35,7 +35,7 @@ thumbs.db
 Debug/
 
 # IAR project "Release" directory
-Release/
+# Release/
 
 # IAR project settings directory
 settings/
